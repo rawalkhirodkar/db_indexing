@@ -1,0 +1,16 @@
+initializing
+creating index
+opening index
+begin test of performance analysis
+inserting into index
+closing down
+test3 multiple values done!
+initializing
+creating index
+opening index
+begin test of performance analysis
+inserting into index
+closing down
+test3 multiple values done!
+EQQuery TIME : 0.00049305
+CEQQuery TIME : 0.01797509
